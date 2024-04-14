@@ -1,0 +1,8 @@
+.active{
+    padding: 10px;
+    border: 2px solid purple;
+}
+
+.notActive{
+    padding: 10px;
+}
